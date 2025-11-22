@@ -7,30 +7,30 @@ This program allows users to add, view, borrow, and return books using a menu-dr
 
 📘 Features:
 
---> Add a Book :
+- Add a Book :
 Users can add new books to the library. The book name is automatically converted to uppercase.
 
---> Show Available Books : 
+- Show Available Books : 
 Displays the list of all books currently present in the library.
 
---> Borrow a Book :
+- Borrow a Book :
 Allows users to borrow a book if it exists in the library.
 
---> Return a Book :
+- Return a Book :
 Users can return a previously borrowed book.
 
---> Exit the System :
+- Exit the System :
 Gracefully closes the program.
 
 ----------------------------------------------------------------------------------------------
 
 🛠 Python features that are used :
 
---> Lists
---> Functions
---> Loops
---> Conditional statements
---> Input/Output
+ - Lists
+ - Functions
+ - Loops
+ - Conditional statements
+ - Input/Output
 
 -------------------------------------------------------------------------------------------
 
@@ -38,8 +38,8 @@ Gracefully closes the program.
 
 The project uses two lists:
 
-books → stores all available books
-taken → stores all borrowed books
+- books → stores all available books
+- taken → stores all borrowed books
 
 A menu runs inside an infinite loop (while True) until the user selects option 5 (Quit).
 
