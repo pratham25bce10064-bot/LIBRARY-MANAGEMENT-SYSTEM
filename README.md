@@ -34,15 +34,6 @@ Gracefully closes the program.
 
 -------------------------------------------------------------------------------------------
 
-📂 Project Structure
-
-Library Management System
-│
-├── Lib_Manage.py     # main program file (your code)
-└── README.md         # Guide on How to Run this Code and Basic Features of this code
-
--------------------------------------------------------------------------------------------
-
 📑 How It Works
 
 The project uses two lists:
